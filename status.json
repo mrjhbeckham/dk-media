@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-01T06:31:14+00:00",
- "nz_time": "7:31pm, 1 Oct",
- "run_id": "36825194588",
+ "updated": "2026-10-01T06:45:50+00:00",
+ "nz_time": "7:45pm, 1 Oct",
+ "run_id": "36826504265",
  "outcome": "skipped",
  "reason": "held by Josh",
  "story": null,
@@ -13,6 +13,11 @@
  "next_slot": "7:00am, 2 Oct",
  "paused": false,
  "runs": [
+  {
+   "nz_time": "7:45pm, 1 Oct",
+   "outcome": "skipped",
+   "headline": null
+  },
   {
    "nz_time": "7:31pm, 1 Oct",
    "outcome": "skipped",
