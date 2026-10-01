@@ -1,0 +1,12 @@
+INFO Press Slip slide fact     polarity=B width=L tilt=-1.5 anchor=low 8.0s
+INFO Press Slip slide quote    polarity=A width=M tilt=+2.0 anchor=high 8.0s
+INFO Press Slip slide fact     polarity=B width=L tilt=-1.0 anchor=low 7.8s
+INFO Press Slip slide fact     polarity=A width=M tilt=+1.5 anchor=high 8.0s
+INFO Press Slip slide fact     polarity=B width=L tilt=-2.0 anchor=low 7.4s
+INFO Press Slip slide fact     polarity=A width=M tilt=+1.0 anchor=high 8.0s
+INFO Press Slip slide fact     polarity=B width=S tilt=-1.5 anchor=low 7.8s
+INFO Press Slip slide yoursay  polarity=A width=L tilt=+2.0 anchor=mid 6.5s
+INFO Press Slip slide outro    polarity=A width=L tilt=-1.5 anchor=low 7.0s
+INFO Press Slip video written: out/explainer/cards.mp4, 2054 frames, 68.5s
+INFO Press Slip music: Corporate Uplifting Blog Journey by echoes_of_lumen (upbeat) from 22.1s
+INFO Explainer written: out/explainer/explainer.mp4 (38.7s narrated + 68.5s cards)
