@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-01T06:45:50+00:00",
- "nz_time": "7:45pm, 1 Oct",
- "run_id": "36826504265",
+ "updated": "2026-10-01T07:43:26+00:00",
+ "nz_time": "8:43pm, 1 Oct",
+ "run_id": "36831956728",
  "outcome": "skipped",
- "reason": "held by Josh",
+ "reason": "hand-post mode: Josh posts by hand; only previews (dry runs) and Post now run",
  "story": null,
  "platforms": {
   "facebook": "skipped",
@@ -13,6 +13,11 @@
  "next_slot": "7:00am, 2 Oct",
  "paused": false,
  "runs": [
+  {
+   "nz_time": "8:43pm, 1 Oct",
+   "outcome": "skipped",
+   "headline": null
+  },
   {
    "nz_time": "7:45pm, 1 Oct",
    "outcome": "skipped",
