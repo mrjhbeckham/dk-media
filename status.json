@@ -1,0 +1,22 @@
+{
+ "updated": "2026-10-01T05:01:24+00:00",
+ "nz_time": "6:01pm, 1 Oct",
+ "run_id": "36817809304",
+ "outcome": "skipped",
+ "reason": "outside every posting window (18:01 NZ; today's slots are 07:00, 19:00)",
+ "story": null,
+ "platforms": {
+  "facebook": "skipped",
+  "instagram": "skipped",
+  "tiktok": "skipped"
+ },
+ "next_slot": "7:00pm, 1 Oct",
+ "paused": false,
+ "runs": [
+  {
+   "nz_time": "6:01pm, 1 Oct",
+   "outcome": "skipped",
+   "headline": null
+  }
+ ]
+}
