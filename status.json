@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-01T13:50:52+00:00",
- "nz_time": "2:50am, 2 Oct",
- "run_id": "36871729686",
+ "updated": "2026-10-01T14:26:49+00:00",
+ "nz_time": "3:26am, 2 Oct",
+ "run_id": "36876349931",
  "outcome": "skipped",
  "reason": "hand-post mode: Josh posts by hand; only previews (dry runs) and Post now run",
  "story": null,
@@ -13,6 +13,11 @@
  "next_slot": "7:00am, 2 Oct",
  "paused": false,
  "runs": [
+  {
+   "nz_time": "3:26am, 2 Oct",
+   "outcome": "skipped",
+   "headline": null
+  },
   {
    "nz_time": "2:50am, 2 Oct",
    "outcome": "skipped",
