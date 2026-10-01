@@ -16,4 +16,4 @@ INFO Press Slip slide yoursay  polarity=A width=L tilt=+1.0 anchor=mid 6.5s
 INFO Press Slip slide outro    polarity=A width=L tilt=-1.5 anchor=low 7.0s
 INFO Press Slip video written: out/explainer/cards.mp4, 2807 frames, 93.6s
 INFO Press Slip music: Suspense by AtlasAudio (documentary) from 8.7s
-INFO Explainer written: out/explainer/explainer.mp4 (11.5s narrated + 0.0s Parliament clip + 93.6s cards)
+INFO Explainer written: out/explainer/explainer.mp4 (12.0s narrated + 0.0s Parliament clip + 93.6s cards)
