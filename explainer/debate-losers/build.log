@@ -1,0 +1,11 @@
+INFO Press Slip slide quote    polarity=A width=L tilt=-1.5 anchor=low 7.8s
+INFO Press Slip slide fact     polarity=B width=M tilt=+2.0 anchor=high 7.0s
+INFO Press Slip slide fact     polarity=A width=L tilt=-1.0 anchor=low 8.0s
+INFO Press Slip slide fact     polarity=B width=M tilt=+1.5 anchor=high 8.0s
+INFO Press Slip slide quote    polarity=A width=L tilt=-2.0 anchor=low 8.0s
+INFO Press Slip slide fact     polarity=B width=M tilt=+1.0 anchor=high 7.4s
+INFO Press Slip slide yoursay  polarity=A width=L tilt=-1.5 anchor=mid 6.5s
+INFO Press Slip slide outro    polarity=A width=L tilt=-1.5 anchor=low 7.0s
+INFO Press Slip video written: out/explainer/cards.mp4, 1789 frames, 59.6s
+INFO Press Slip music: Minimal Electronica by Kulakovka (upbeat) from 42.9s
+INFO Explainer written: out/explainer/explainer.mp4 (44.5s narrated + 59.6s cards)
