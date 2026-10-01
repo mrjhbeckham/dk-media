@@ -1,10 +1,14 @@
 {
- "updated": "2026-10-01T05:15:47+00:00",
- "nz_time": "6:15pm, 1 Oct",
- "run_id": "36818912872",
+ "updated": "2026-10-01T05:25:39+00:00",
+ "nz_time": "6:25pm, 1 Oct",
+ "run_id": "36819313426",
  "outcome": "skipped",
- "reason": "outside every posting window (18:15 NZ; today's slots are 07:00, 19:00)",
- "story": null,
+ "reason": "dry run: nothing sent, draft published for review",
+ "story": {
+  "headline": "Can a website add seats to Parliament?",
+  "slug": "can-a-website-add-seats-to-parliament",
+  "url": null
+ },
  "platforms": {
   "facebook": "skipped",
   "instagram": "skipped",
@@ -13,6 +17,16 @@
  "next_slot": "7:00pm, 1 Oct",
  "paused": false,
  "runs": [
+  {
+   "nz_time": "6:25pm, 1 Oct",
+   "outcome": "skipped",
+   "headline": "Can a website add seats to Parliament?"
+  },
+  {
+   "nz_time": "6:25pm, 1 Oct",
+   "outcome": "skipped",
+   "headline": "Can a website add seats to Parliament?"
+  },
   {
    "nz_time": "6:15pm, 1 Oct",
    "outcome": "skipped",
