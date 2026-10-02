@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-02T00:45:40+00:00",
- "nz_time": "1:45pm, 2 Oct",
- "run_id": "36947589866",
+ "updated": "2026-10-02T01:01:53+00:00",
+ "nz_time": "2:01pm, 2 Oct",
+ "run_id": "36948883904",
  "outcome": "skipped",
  "reason": "hand-post mode: Josh posts by hand; only previews (dry runs) and Post now run",
  "story": null,
@@ -13,6 +13,11 @@
  "next_slot": "7:00pm, 2 Oct",
  "paused": false,
  "runs": [
+  {
+   "nz_time": "2:01pm, 2 Oct",
+   "outcome": "skipped",
+   "headline": null
+  },
   {
    "nz_time": "1:45pm, 2 Oct",
    "outcome": "skipped",
@@ -107,11 +112,6 @@
    "nz_time": "6:25pm, 1 Oct",
    "outcome": "skipped",
    "headline": "Can a website add seats to Parliament?"
-  },
-  {
-   "nz_time": "6:15pm, 1 Oct",
-   "outcome": "skipped",
-   "headline": null
   }
  ]
 }
