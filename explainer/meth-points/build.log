@@ -1,19 +1,2 @@
-INFO Press Slip slide fact     polarity=B width=L tilt=-1.5 anchor=low 8.0s
-INFO Press Slip slide stat     polarity=A width=M tilt=+2.0 anchor=high 7.0s
-WARNING Press Slip text overflow: 'The estimated social harm cost is $34.9 ' at 28px, 4 lines
-INFO Press Slip slide fact     polarity=B width=L tilt=-1.0 anchor=low 5.3s
-INFO Press Slip slide fact     polarity=A width=M tilt=+1.5 anchor=high 8.0s
-INFO Press Slip slide fact     polarity=B width=L tilt=-2.0 anchor=low 8.0s
-INFO Press Slip slide quote    polarity=A width=M tilt=+1.0 anchor=high 8.0s
-INFO Press Slip slide fact     polarity=B width=L tilt=-1.5 anchor=low 5.3s
-INFO Press Slip slide fact     polarity=A width=M tilt=+2.0 anchor=high 8.0s
-INFO Press Slip slide fact     polarity=B width=L tilt=-1.0 anchor=low 7.4s
-INFO Press Slip slide stat     polarity=A width=M tilt=+1.5 anchor=high 7.1s
-WARNING Press Slip text overflow: 'Phase two is a $1.68 million push called' at 28px, 4 lines
-INFO Press Slip slide fact     polarity=B width=S tilt=-2.0 anchor=low 8.0s
-WARNING Press Slip text overflow: 'POLICE ARE EXPECTED TO PUBLISH MORE QUAR' at 52px, 7 lines
-INFO Press Slip slide yoursay  polarity=A width=L tilt=+1.0 anchor=mid 6.5s
-INFO Press Slip slide outro    polarity=A width=L tilt=-1.5 anchor=low 7.0s
-INFO Press Slip video written: out/explainer/cards.mp4, 2807 frames, 93.6s
 INFO Press Slip music: Suspense by AtlasAudio (documentary) from 8.7s
-INFO Explainer written: out/explainer/explainer.mp4 (12.0s narrated + 0.0s Parliament clip + 93.6s cards)
+INFO Fact-check cards video written: out/explainer/explainer.mp4 (103.5s, 17 cards plus cover and closing question)
